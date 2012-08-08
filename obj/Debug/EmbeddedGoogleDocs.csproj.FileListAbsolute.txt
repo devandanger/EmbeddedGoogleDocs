@@ -1,0 +1,12 @@
+C:\dev\web\EmbeddedGoogleDocs\bin\EmbeddedGoogleDocs.dll
+C:\dev\web\EmbeddedGoogleDocs\bin\EmbeddedGoogleDocs.pdb
+C:\dev\web\EmbeddedGoogleDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\web\EmbeddedGoogleDocs\obj\Debug\EmbeddedGoogleDocs.dll
+C:\dev\web\EmbeddedGoogleDocs\obj\Debug\EmbeddedGoogleDocs.pdb
+C:\dev\web\EmbeddedGoogleDocs\bin\EmbeddedGoogleDocControl.dll
+C:\dev\web\EmbeddedGoogleDocs\bin\Google.GData.AccessControl.dll
+C:\dev\web\EmbeddedGoogleDocs\bin\Google.GData.Extensions.dll
+C:\dev\web\EmbeddedGoogleDocs\bin\Newtonsoft.Json.dll
+C:\dev\web\EmbeddedGoogleDocs\bin\Google.GData.Documents.dll
+C:\dev\web\EmbeddedGoogleDocs\bin\Google.GData.Client.dll
+C:\dev\web\EmbeddedGoogleDocs\bin\EmbeddedGoogleDocControl.pdb

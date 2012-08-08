@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedGoogleDocs", "EmbeddedGoogleDocs.csproj", "{B5DF4641-6624-4B53-A3E4-8A5DE60D523A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGoogleDocs", "TestGoogleDocs\TestGoogleDocs.csproj", "{497D6C0E-EAE0-444F-AABA-1C5C71BD3779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedGoogleDocControl", "EmbeddedGoogleDocControl\EmbeddedGoogleDocControl.csproj", "{9633967D-E7E8-4809-9D54-4D48551CDAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DF4641-6624-4B53-A3E4-8A5DE60D523A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DF4641-6624-4B53-A3E4-8A5DE60D523A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DF4641-6624-4B53-A3E4-8A5DE60D523A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DF4641-6624-4B53-A3E4-8A5DE60D523A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497D6C0E-EAE0-444F-AABA-1C5C71BD3779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497D6C0E-EAE0-444F-AABA-1C5C71BD3779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497D6C0E-EAE0-444F-AABA-1C5C71BD3779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497D6C0E-EAE0-444F-AABA-1C5C71BD3779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9633967D-E7E8-4809-9D54-4D48551CDAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9633967D-E7E8-4809-9D54-4D48551CDAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9633967D-E7E8-4809-9D54-4D48551CDAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9633967D-E7E8-4809-9D54-4D48551CDAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

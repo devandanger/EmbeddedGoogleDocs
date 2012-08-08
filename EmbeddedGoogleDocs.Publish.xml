@@ -1,0 +1,18 @@
+<publishData>
+  <publishTarget publishUrl="C:\TargetedBuilds\GoogleDocsExample\">
+    <file relUrl="UsingGoogleControl.aspx" publishTime="08/08/2012 02:59:29" />
+    <file relUrl="bin/Google.GData.Documents.dll" publishTime="08/07/2012 21:38:05" />
+    <file relUrl="bin/Google.GData.AccessControl.dll" publishTime="08/07/2012 21:38:05" />
+    <file relUrl="bin/Google.GData.Client.dll" publishTime="08/07/2012 21:38:05" />
+    <file relUrl="bin/Google.GData.Extensions.dll" publishTime="08/07/2012 21:38:05" />
+    <file relUrl="bin/EmbeddedGoogleDocs.dll" publishTime="08/08/2012 03:01:21" />
+    <file relUrl="Web.config" publishTime="08/08/2012 02:42:09" />
+    <file relUrl="Default.aspx" publishTime="08/07/2012 22:38:02" />
+    <file relUrl="bin/EmbeddedGoogleDocControl.dll" publishTime="08/08/2012 02:42:15" />
+    <file relUrl="Controls/GoogleDocWrapperUserControl.ascx" publishTime="08/08/2012 03:00:48" />
+    <file relUrl="bin/EmbeddedGoogleDocs.pdb" publishTime="08/08/2012 03:01:20" />
+    <file relUrl="bin/EmbeddedGoogleDocControl.pdb" publishTime="08/08/2012 02:42:15" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="08/07/2012 21:38:05" />
+    <file relUrl="Styles/default.css" publishTime="08/08/2012 02:09:43" />
+  </publishTarget>
+</publishData>

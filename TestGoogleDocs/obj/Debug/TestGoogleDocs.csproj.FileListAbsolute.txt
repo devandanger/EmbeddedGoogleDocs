@@ -1,0 +1,10 @@
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\bin\Debug\TestGoogleDocs.exe
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\bin\Debug\TestGoogleDocs.pdb
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\bin\Debug\Google.GData.AccessControl.dll
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\bin\Debug\Google.GData.Client.dll
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\bin\Debug\Google.GData.Documents.dll
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\bin\Debug\Google.GData.Extensions.dll
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\bin\Debug\Newtonsoft.Json.dll
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\obj\Debug\TestGoogleDocs.exe
+C:\dev\web\EmbeddedGoogleDocs\TestGoogleDocs\obj\Debug\TestGoogleDocs.pdb
